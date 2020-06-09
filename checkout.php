@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com -->
-  <title>Bootstrap Theme Company Page</title>
+  <title>WATIGA</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -110,7 +110,7 @@ span.price {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.html#myPage">E-Laundry</a>
+      <a class="navbar-brand" href="index.html#myPage">WATIGA</a>
     </div>
     <div class="collapse navbar-collapse text-center" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
